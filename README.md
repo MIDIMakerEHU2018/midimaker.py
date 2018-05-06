@@ -14,7 +14,7 @@ https://pypi.org/project/MIDIUtil/
 
 
 ## Instalación
-Para poder utilizar este programa es necesario instalar las librerías y sus dependencias. Hay que recalcar que este script funciona correctamente si se utliza PYTHON 3. Si se utilizase Python 2 el script no funcionaría correctamente.
+Para poder utilizar este programa es necesario instalar las librerías y sus dependencias. Hay que recalcar que este script funciona correctamente si se utliza ``` Python 3 ```. Si se utilizase Python 2 el script no funcionaría correctamente.
 ### Instalación mediante pip
 Instalación de librosa (también se instalarán las librerías de las que depende librosa):
 
