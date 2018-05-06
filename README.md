@@ -13,7 +13,7 @@ MIDIUtil: para la creación de archivos MIDI.
 https://pypi.org/project/MIDIUtil/
 
 ## Instalación
-Para poder utilizar este programa es necesario instalar ciertas librerías y sus dependencias. Hay que recalcar que este script funciona correctamente solo si se utliza ``` Python 3 ```. Si se utiliza Python 2 el script no funciona correctamente.
+Para poder utilizar este programa es necesario instalar ciertas librerías y sus dependencias. Hay que recalcar que este script funciona correctamente sólo si se utliza ``` Python 3 ```. Si se utiliza Python 2 el script no funciona correctamente.
 
 ### Instalación mediante pip
 Instalación de librosa (también se instalarán las librerías de las que depende librosa):
