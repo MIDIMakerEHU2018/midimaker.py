@@ -200,9 +200,9 @@ if __name__ == '__main__':
     '''
     Combinaciones:
         inst1 = 1 es adecuado cuando se trata de cuerda pulsada o tecla, cuando hay un elemento percusivo
-        Piano -> piano = 1 guitar = 0 onMethod=0
-        Guitarra -> piano = 1 guitar = 1 onMethod=0
-        Flauta Dulce (flauta) (experimental) -> piano=1 guitar=1 onMethod=1
+        Piano -> inst1 = 1 inst2 = 0 onMethod=0
+        Guitarra -> inst1 = 1 inst2 = 1 onMethod=0
+        Flauta Dulce (flauta) (experimental) -> inst1=1 inst2=1 onMethod=1
       
         (En proceso)
         Violin ->
