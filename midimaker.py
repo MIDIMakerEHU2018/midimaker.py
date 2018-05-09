@@ -97,6 +97,7 @@ def noteInInterval(array,frameL, frameH, noteAnt, guitar, framePulse):
     #Se calcula la duracion del intervalo
     dur = durStimation(frameInit=frameL, frameEnd=frameH-1, framePulse=framePulse)
     val=0
+    note = 0
     if guitar==0: #Se obtiene la nota de mayor amplitud en el rango
         for j in range(frameL, frameH -1):
             if array[j][1] > val:
